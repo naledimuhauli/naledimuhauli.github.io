@@ -103,4 +103,9 @@ table a{
 }
  .int li{
     margin-top: 20px;
+    
+}
+.int a{
+    text-decoration: none;
+    color: rgb(105, 5, 38);
 }
