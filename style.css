@@ -109,3 +109,10 @@ table a{
     text-decoration: none;
     color: rgb(105, 5, 38);
 }
+
+@media (max-width: 1000px){
+    .container{
+        margin: 10px;
+        grid-template-columns: repeat(1,1fr);
+    }
+}
